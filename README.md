@@ -1,4 +1,4 @@
-# ebook-rest-assured
+## 📒 Projeto de E-book Rest Assured
 Desvendando Rest Assured - A força dos testes em JAVA
 ## 📒 Descrição
 Este E-book tem como objetivo apresentar a ferramenta Rest Assured para criaçãode testes de integração em JAVA.
